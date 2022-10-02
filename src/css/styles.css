@@ -18,3 +18,43 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.country {
+  color: red;
+  display: inline;
+  margin-left: 10px;
+}
+
+.country {
+  color: #635959;
+  display: inline;
+  margin-left: 10px;
+}
+
+.country-list {
+  list-style-type: none;
+}
+
+.country-list li {
+  font: Ubuntu;
+  color: #635959;
+  font-weight: 100;
+  font-size: 12px;
+}
+
+.country-list h3 {
+  padding: 10px;
+  display: inline;
+}
+
+.country-info {
+  background-color: lightgrey;
+  border-radius: 3px;
+  width: 100%;
+  padding: 20px;
+  width: 300px;
+}
+
+.hidden {
+  display: none;
+}
